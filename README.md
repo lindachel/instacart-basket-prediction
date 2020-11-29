@@ -80,3 +80,4 @@ Python packages:
   - pandas==0.19.2
   - scikit-learn==0.18.1
   - tensorflow==1.3.0
+ajout d'une ligne test
